@@ -11,6 +11,11 @@
     margin: 0;
     padding: 0;
   }
+
+  .meals-message {
+    color: white;
+    text-align: center;
+  }
   
   @keyframes meals-appear {
     from {
